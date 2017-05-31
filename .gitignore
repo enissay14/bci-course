@@ -92,4 +92,4 @@ ENV/
 node_modules
 
 # stray data
-*.csv
+
